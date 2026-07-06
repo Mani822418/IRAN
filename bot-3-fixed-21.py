@@ -5,7 +5,7 @@ import os
 import random
 from datetime import datetime, timedelta, timezone
 
-TOKEN          = "2046590991:DzGhGfxvcWd4-hN_5syGmzlycd7SsWqrs_8"
+TOKEN          = "2046590991:n8fGJaejkx0ZlDZm5DwbpHlvCHiT9YFhSo8"
 BASE_URL       = f"https://tapi.bale.ai/bot{TOKEN}"
 PROVIDER_TOKEN = "WALLET-OK6HEWN7IPAA2YKC"
 
